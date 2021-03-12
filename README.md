@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @reflection4046
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Nahidul Islam
+- 👀 I’m interested in Reading Books
+- 🌱 I’m currently learning  Cse
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Email:nahidulaiub@gmail.com
+-                     Facebook: https://www.facebook.com/Nahidulaiub/
 
 <!---
 reflection4046/reflection4046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
