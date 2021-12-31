@@ -6,7 +6,9 @@
 
 <<< Contract Info <<<
 
-☎ Phone: +8801531977501 
+☎ Phone: +8801531977501
+☎ Phone: +8801886884612
+
 
 📨 Email:nahidulaiub@gmail.com
 
